@@ -32,7 +32,7 @@ fca23098
 34564597 
 ```
 
-Comparando as duas ferramentas quando convertia o arquivo criptografado com o openSSL ele fazia padding por essa razão no scrip em python trunca os primeiros 64 bits do resultado. Para assim fazer a comparação. 
+Comparando as duas ferramentas quando convertia o arquivo criptografado com o openSSL ele fazia padding por essa razão no script em python trunca os primeiros 64 bits do resultado. Para assim fazer a comparação. 
 
 Comparação do metodo openSSL e uma [ferramenta online](http://des.online-domain-tools.com/).
 
