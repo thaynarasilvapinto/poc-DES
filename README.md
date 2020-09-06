@@ -8,3 +8,26 @@ Comando usado para criptografar:
  
 ```openssl enc -des-ecb -K 124abc34 -in entrada -out entrada```
 
+Texto claro:
+
+``` 
+7a72b71f
+
+123bc201
+
+12354322
+
+abcdef61
+
+23bc0912
+
+fca23098
+
+0983bc11
+
+2345bc13
+
+343f4533
+
+34564597 
+```
