@@ -6,7 +6,7 @@ Cada arquivo foi submetido a criptografia no metodo de DES utlizando o openSSL, 
 
 Comando usado para criptografar:
  
-```openssl enc -des-ecb -K 124abc34 -in entrada -out entrada```
+```openssl enc -des-ecb -K 124abc34 -in entrada -out saida```
 
 Texto claro:
 
