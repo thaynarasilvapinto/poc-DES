@@ -31,3 +31,10 @@ fca23098
 
 34564597 
 ```
+
+Comparação do metodo openSSL e uma [ferramenta online](http://des.online-domain-tools.com/).
+
+
+![alt text](img/comparacao-openSSL-desonline.png)
+
+Comparanda as duas ferramentas quando convertia o arquivo criptografado com o openSSL ele fazia padding por essa razão no scrip em python trunca os primeiros 64 bits do resultado. Para assim fazer a comparação. 
