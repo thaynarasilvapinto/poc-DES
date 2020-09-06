@@ -39,3 +39,6 @@ Comparação do metodo openSSL e uma [ferramenta online](http://des.online-domai
 
 ![alt text](img/comparacao-openSSL-desonline.png)
 
+### Execução do script
+
+![execução script](img/script-execution.jpeg)
