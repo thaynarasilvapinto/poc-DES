@@ -11,7 +11,6 @@ with open(file2, 'rb') as f2:
 
 binplain = ''
 for byte in plain:
-  print(chr(byte), byte)
   binbyte = bin(byte)[2:]
   if len(binbyte) < 8:
     binbyte = '0' * (8 - len(binbyte)) + binbyte
